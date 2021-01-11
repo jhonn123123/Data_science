@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Linq" Version="4.3.0"/>
+    <PackageReference Include="System.Utility.Commons.Core.dll" Version="1.0.6129.21413"/>
+  </ItemGroup>
+</Project>

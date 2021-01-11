@@ -1,0 +1,16 @@
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/mex
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/mex.deps.json
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/mex.runtimeconfig.json
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/mex.runtimeconfig.dev.json
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/mex.dll
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/mex.pdb
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.csprojAssemblyReference.cache
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.AssemblyInfoInputs.cache
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.AssemblyInfo.cs
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.csproj.CoreCompileInputs.cache
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.dll
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.pdb
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.genruntimeconfig.cache
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/jhonn/Documentos/ciencia_datos/mex/bin/Debug/netcoreapp3.1/System.Utility.Commons.Core.dll
+/home/jhonn/Documentos/ciencia_datos/mex/obj/Debug/netcoreapp3.1/mex.csproj.CopyComplete

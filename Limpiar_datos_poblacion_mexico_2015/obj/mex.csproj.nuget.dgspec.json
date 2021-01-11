@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jhonn/Documentos/ciencia_datos/mex/mex.csproj": {}
+  },
+  "projects": {
+    "/home/jhonn/Documentos/ciencia_datos/mex/mex.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jhonn/Documentos/ciencia_datos/mex/mex.csproj",
+        "projectName": "mex",
+        "projectPath": "/home/jhonn/Documentos/ciencia_datos/mex/mex.csproj",
+        "packagesPath": "/home/jhonn/.nuget/packages/",
+        "outputPath": "/home/jhonn/Documentos/ciencia_datos/mex/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jhonn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Utility.Commons.Core.dll": {
+              "target": "Package",
+              "version": "[1.0.6129.21413, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
